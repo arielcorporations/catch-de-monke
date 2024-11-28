@@ -8,7 +8,7 @@ Credits:
 - "Gorilla Tag Trees Asset Pack" (https://skfb.ly/oIWsR) by KPMisParrot is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "Gorilla Tags New Stump" (https://skfb.ly/prpSB) by goofybrian is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "Gorilla Tag Player Model Unity 3d" (https://skfb.ly/oq89N) by worpcapsule is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-- Movement system inspired used in Gorilla Tag, developed by Another Axiom, used under the MIT License.
+- Movement system used in Gorilla Tag, developed by Another Axiom, used under the MIT License.
 - Footstep sounds from "StelSteps" found on Discord.
 - Background music from lofi
 * Massive thanks to all listed above!
