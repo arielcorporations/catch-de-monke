@@ -1,7 +1,7 @@
 # Catch De Monke.
 A Gorilla Tag fangame by Arielcorporations
 # How to install
-get the latest release from (https://github.com/arielcorporations/catch-de-monke/releases install) the .apk file and sideload it to vr
+get the latest .apk release from (https://github.com/arielcorporations/catch-de-monke/releases) and sideload it to oculus
 # Credits
 Credits:
 - "Speaker" (https://skfb.ly/6QUXG) by futaba@blender is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
